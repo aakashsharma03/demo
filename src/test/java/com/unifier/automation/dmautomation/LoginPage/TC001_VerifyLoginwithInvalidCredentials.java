@@ -11,6 +11,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.unifier.automation.dmautomation.testBase.TestBase;
+import com.unifier.automation.dmautomation.uiActions.DMActions;
 import com.unifier.automation.dmautomation.uiActions.LoginPage;
 import com.unifier.automation.dmautomation.uiActions.UnifierHome;
 
@@ -19,6 +20,7 @@ public class TC001_VerifyLoginwithInvalidCredentials extends TestBase{
 		//WebDriver driver;
 		LoginPage loginPage;
 		UnifierHome home;
+		DMActions dmActions;
 		
 		
 		@DataProvider(name="loginData")
@@ -49,9 +51,37 @@ public class TC001_VerifyLoginwithInvalidCredentials extends TestBase{
 				boolean status=home.isSignoutPresent();
 				if(status)
 				{
-					home.clickSignOut();
+					try 
+					{
+						//Thread.sleep(10000);
+						//home.clickDM();
+						//log.info("DM Clicked");
+						//home.clickSignOut();
+						Thread.sleep(10000);
+				
+						dmActions = new DMActions(driver);
+						dmActions.switchToFrame();
+						dmActions.createNewFolderWindow();
+						Thread.sleep(5000);
+						
+						dmActions.switchToCreateFolder();
+						dmActions.createFolder();
+						dmActions.switchToMainWindow();
+						dmActions.switchToFrame();
+						
+						Assert.assertTrue(dmActions.verifyFolder(), "Folder Not Created");
+						log.info("Folder created successfully");
+						Thread.sleep(1000);
+						dmActions.clickFolderName();
+						Thread.sleep(5000);
+						dmActions.deleteFolder();
+						Assert.assertFalse(dmActions.verifyFolder());
+					}
+					catch (InterruptedException e)
+					{
+						e.printStackTrace();
+					}
 				}
-				Assert.assertTrue(status);
 				log.info("------------Finished Test-------------");
 				
 		}

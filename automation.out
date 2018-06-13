@@ -269,3 +269,604 @@
 2018-06-09 00:12:43 INFO  TC001_VerifyLoginwithInvalidCredentials:44 - ------------Starting Test-------------
 2018-06-09 00:12:46 INFO  TC001_VerifyLoginwithInvalidCredentials:44 - ------------Starting Test-------------
 2018-06-09 00:12:46 INFO  TC001_VerifyLoginwithInvalidCredentials:44 - ------------Starting Test-------------
+2018-06-12 11:57:18 INFO  TC001_VerifyLoginwithInvalidCredentials:44 - ------------Starting Test-------------
+2018-06-12 11:57:19 INFO  TC001_VerifyLoginwithInvalidCredentials:44 - ------------Starting Test-------------
+2018-06-12 11:57:19 INFO  TC001_VerifyLoginwithInvalidCredentials:44 - ------------Starting Test-------------
+2018-06-12 11:57:44 INFO  TC001_VerifyLoginwithInvalidCredentials:44 - ------------Starting Test-------------
+2018-06-12 11:57:44 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 11:57:44 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 11:57:45 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 11:57:48 INFO  TC001_VerifyLoginwithInvalidCredentials:56 - ------------Finished Test-------------
+2018-06-12 11:57:48 INFO  TC001_VerifyLoginwithInvalidCredentials:44 - ------------Starting Test-------------
+2018-06-12 11:57:57 INFO  TC001_VerifyLoginwithInvalidCredentials:44 - ------------Starting Test-------------
+2018-06-12 11:59:20 INFO  TC001_VerifyLoginwithInvalidCredentials:46 - ------------Starting Test-------------
+2018-06-12 11:59:20 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 11:59:20 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 11:59:21 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 11:59:24 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - DM Clicked
+2018-06-12 11:59:24 INFO  TC001_VerifyLoginwithInvalidCredentials:59 - ------------Finished Test-------------
+2018-06-12 11:59:24 INFO  TC001_VerifyLoginwithInvalidCredentials:46 - ------------Starting Test-------------
+2018-06-12 11:59:45 INFO  LoginPage:34 - Entered Username abcd
+2018-06-12 11:59:46 INFO  LoginPage:37 - Entered Password abcd
+2018-06-12 11:59:46 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 12:00:06 INFO  TC001_VerifyLoginwithInvalidCredentials:46 - ------------Starting Test-------------
+2018-06-12 12:00:06 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 12:00:06 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 12:00:08 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 12:00:10 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - DM Clicked
+2018-06-12 12:00:10 INFO  TC001_VerifyLoginwithInvalidCredentials:59 - ------------Finished Test-------------
+2018-06-12 12:00:10 INFO  TC001_VerifyLoginwithInvalidCredentials:46 - ------------Starting Test-------------
+2018-06-12 12:00:21 INFO  LoginPage:34 - Entered Username abcd
+2018-06-12 12:00:22 INFO  LoginPage:37 - Entered Password abcd
+2018-06-12 12:00:22 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 12:01:10 INFO  TC001_VerifyLoginwithInvalidCredentials:46 - ------------Starting Test-------------
+2018-06-12 12:01:10 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 12:01:10 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 12:01:12 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 12:01:24 INFO  TC001_VerifyLoginwithInvalidCredentials:61 - DM Clicked
+2018-06-12 12:01:24 INFO  TC001_VerifyLoginwithInvalidCredentials:65 - ------------Finished Test-------------
+2018-06-12 12:01:24 INFO  TC001_VerifyLoginwithInvalidCredentials:46 - ------------Starting Test-------------
+2018-06-12 12:10:40 INFO  TC001_VerifyLoginwithInvalidCredentials:46 - ------------Starting Test-------------
+2018-06-12 12:10:40 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 12:10:40 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 12:10:41 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 12:11:55 INFO  TC001_VerifyLoginwithInvalidCredentials:61 - DM Clicked
+2018-06-12 12:11:55 INFO  TC001_VerifyLoginwithInvalidCredentials:65 - ------------Finished Test-------------
+2018-06-12 12:30:30 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 12:30:30 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 12:30:31 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 12:30:32 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 12:30:45 INFO  TC001_VerifyLoginwithInvalidCredentials:60 - DM Clicked
+2018-06-12 12:33:18 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 12:33:18 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 12:33:18 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 12:33:20 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 12:34:33 INFO  TC001_VerifyLoginwithInvalidCredentials:60 - DM Clicked
+2018-06-12 12:36:23 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 12:36:23 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 12:36:23 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 12:36:25 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 12:37:38 INFO  TC001_VerifyLoginwithInvalidCredentials:60 - DM Clicked
+2018-06-12 12:41:39 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 12:41:39 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 12:41:39 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 12:41:41 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 12:44:25 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 12:44:25 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 12:44:25 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 12:44:28 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 12:44:50 INFO  DMActions:28 - clicking createButton
+2018-06-12 12:51:49 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 12:51:49 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 12:51:49 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 12:51:50 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 12:59:24 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 12:59:24 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 12:59:24 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 12:59:26 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 12:59:49 INFO  DMActions:28 - clicking createButton
+2018-06-12 13:02:56 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 13:02:56 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 13:02:56 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 13:02:58 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 13:03:20 INFO  TC001_VerifyLoginwithInvalidCredentials:64 - Switched to Frame
+2018-06-12 13:03:22 INFO  DMActions:28 - clicking createButton
+2018-06-12 13:03:22 INFO  TC001_VerifyLoginwithInvalidCredentials:75 - ------------Finished Test-------------
+2018-06-12 13:03:58 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 13:03:58 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 13:03:58 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 13:03:59 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 13:04:21 INFO  TC001_VerifyLoginwithInvalidCredentials:64 - Switched to Frame
+2018-06-12 13:04:23 INFO  DMActions:28 - clicking createButton
+2018-06-12 13:04:24 INFO  TC001_VerifyLoginwithInvalidCredentials:75 - ------------Finished Test-------------
+2018-06-12 13:06:36 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 13:06:36 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 13:06:36 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 13:06:38 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 13:09:02 INFO  TestBase:133 - Browser Closed
+2018-06-12 13:10:40 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 13:10:40 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 13:10:41 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 13:10:44 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 13:12:06 INFO  TC001_VerifyLoginwithInvalidCredentials:64 - Switched to Frame
+2018-06-12 13:12:08 INFO  DMActions:28 - clicking createButton
+2018-06-12 13:19:13 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 13:19:13 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 13:19:13 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 13:19:15 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 13:19:38 INFO  TC001_VerifyLoginwithInvalidCredentials:64 - Switched to Frame
+2018-06-12 13:19:40 INFO  DMActions:28 - clicking createButton
+2018-06-12 13:20:41 INFO  TestBase:133 - Browser Closed
+2018-06-12 13:28:33 INFO  TC001_VerifyLoginwithInvalidCredentials:48 - ------------Starting Test-------------
+2018-06-12 13:28:33 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 13:28:33 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 13:28:34 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 13:29:59 INFO  TestBase:133 - Browser Closed
+2018-06-12 13:33:10 INFO  TC001_VerifyLoginwithInvalidCredentials:50 - ------------Starting Test-------------
+2018-06-12 13:33:10 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 13:33:11 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 13:33:12 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 13:34:34 INFO  DMActions:32 - Switched to Frame
+2018-06-12 13:34:36 INFO  DMActions:34 - clicking createButton
+2018-06-12 13:34:37 INFO  TC001_VerifyLoginwithInvalidCredentials:76 - ------------Finished Test-------------
+2018-06-12 13:34:40 INFO  TestBase:133 - Browser Closed
+2018-06-12 13:36:03 INFO  TC001_VerifyLoginwithInvalidCredentials:50 - ------------Starting Test-------------
+2018-06-12 13:36:04 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 13:36:04 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 13:36:05 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 13:37:27 INFO  DMActions:32 - Switched to Frame
+2018-06-12 13:37:29 INFO  DMActions:34 - clicking createButton
+2018-06-12 13:37:29 INFO  TC001_VerifyLoginwithInvalidCredentials:76 - ------------Finished Test-------------
+2018-06-12 13:37:31 INFO  TestBase:133 - Browser Closed
+2018-06-12 13:38:50 INFO  TC001_VerifyLoginwithInvalidCredentials:50 - ------------Starting Test-------------
+2018-06-12 13:38:50 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 13:38:50 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 13:38:52 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 13:40:16 INFO  DMActions:32 - Switched to Frame
+2018-06-12 13:40:18 INFO  DMActions:34 - clicking createButton
+2018-06-12 13:40:18 INFO  TC001_VerifyLoginwithInvalidCredentials:76 - ------------Finished Test-------------
+2018-06-12 13:40:21 INFO  TestBase:133 - Browser Closed
+2018-06-12 14:30:22 INFO  TC001_VerifyLoginwithInvalidCredentials:50 - ------------Starting Test-------------
+2018-06-12 14:30:23 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 14:30:23 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 14:30:26 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 14:31:49 INFO  DMActions:32 - Switched to Frame
+2018-06-12 14:31:51 INFO  DMActions:34 - clicking createButton
+2018-06-12 14:31:52 INFO  TC001_VerifyLoginwithInvalidCredentials:76 - ------------Finished Test-------------
+2018-06-12 14:31:53 INFO  TestBase:133 - Browser Closed
+2018-06-12 14:44:41 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 14:44:42 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 14:44:42 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 14:44:45 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 14:44:59 INFO  DMActions:42 - Switched to Frame
+2018-06-12 14:45:01 INFO  DMActions:44 - clicking createButton
+2018-06-12 14:46:21 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 14:46:21 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 14:46:21 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 14:46:30 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 14:46:53 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 14:46:53 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 14:46:53 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 14:46:56 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 14:47:12 INFO  DMActions:43 - Switched to Frame
+2018-06-12 14:47:14 INFO  DMActions:45 - clicking createButton
+2018-06-12 14:48:18 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 14:48:18 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 14:48:18 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 14:48:19 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 14:48:32 INFO  DMActions:43 - Switched to Frame
+2018-06-12 14:48:34 INFO  DMActions:45 - clicking createButton
+2018-06-12 14:50:34 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 14:50:34 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 14:50:34 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 14:50:35 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 14:50:47 INFO  DMActions:43 - Switched to Frame
+2018-06-12 14:50:49 INFO  DMActions:45 - clicking createButton
+2018-06-12 14:55:03 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 14:55:03 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 14:55:03 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 14:55:04 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 14:55:16 INFO  DMActions:43 - Switched to Frame
+2018-06-12 14:55:18 INFO  DMActions:45 - clicking createButton
+2018-06-12 14:55:23 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 14:55:38 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 14:56:37 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 14:56:37 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 14:56:37 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 14:56:38 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 14:56:50 INFO  DMActions:43 - Switched to Frame
+2018-06-12 14:56:52 INFO  DMActions:45 - clicking createButton
+2018-06-12 14:59:22 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 14:59:22 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 14:59:23 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 14:59:24 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 14:59:36 INFO  DMActions:42 - Switched to Frame
+2018-06-12 14:59:38 INFO  DMActions:44 - clicking createButton
+2018-06-12 15:01:20 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 15:01:20 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 15:01:20 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 15:01:21 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 15:01:33 INFO  DMActions:42 - Switched to Frame
+2018-06-12 15:01:35 INFO  DMActions:44 - clicking createButton
+2018-06-12 15:05:28 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 15:05:28 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 15:05:28 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 15:05:30 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 15:05:42 INFO  DMActions:42 - Switched to Frame
+2018-06-12 15:05:44 INFO  DMActions:44 - clicking createButton
+2018-06-12 15:13:38 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 15:13:38 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 15:13:38 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 15:13:39 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 15:13:51 INFO  DMActions:42 - Switched to Frame
+2018-06-12 15:13:53 INFO  DMActions:44 - clicking createButton
+2018-06-12 15:16:55 INFO  TC001_VerifyLoginwithInvalidCredentials:51 - ------------Starting Test-------------
+2018-06-12 15:16:56 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 15:16:56 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 15:16:58 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 15:17:12 INFO  DMActions:42 - Switched to Frame
+2018-06-12 15:17:14 INFO  DMActions:44 - clicking createButton
+2018-06-12 15:21:51 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 15:21:51 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 15:21:51 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 15:21:52 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 15:22:05 INFO  DMActions:42 - Switched to Frame
+2018-06-12 15:22:07 INFO  DMActions:44 - clicking createButton
+2018-06-12 15:24:45 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 15:24:46 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 15:24:46 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 15:24:47 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 15:24:59 INFO  DMActions:42 - Switched to Frame
+2018-06-12 15:25:01 INFO  DMActions:44 - clicking createButton
+2018-06-12 15:25:07 INFO  TC001_VerifyLoginwithInvalidCredentials:86 - ------------Finished Test-------------
+2018-06-12 15:42:45 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 15:42:46 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 15:42:46 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 15:42:48 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 15:43:01 INFO  DMActions:48 - Switched to Frame
+2018-06-12 15:43:03 INFO  DMActions:50 - clicking createButton
+2018-06-12 15:43:10 INFO  TC001_VerifyLoginwithInvalidCredentials:86 - ------------Finished Test-------------
+2018-06-12 15:45:24 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 15:45:24 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 15:45:24 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 15:45:25 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 15:45:37 INFO  DMActions:48 - Switched to Frame
+2018-06-12 15:45:39 INFO  DMActions:50 - clicking createButton
+2018-06-12 15:46:58 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 15:46:58 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 15:46:58 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 15:46:59 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 15:47:12 INFO  DMActions:48 - Switched to Frame
+2018-06-12 15:47:14 INFO  DMActions:50 - clicking createButton
+2018-06-12 15:50:58 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 15:50:58 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 15:50:58 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 15:50:59 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 15:52:11 INFO  DMActions:47 - Switched to Frame
+2018-06-12 15:52:13 INFO  DMActions:49 - clicking createButton
+2018-06-12 15:53:21 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 15:53:22 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 15:53:22 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 15:53:24 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 15:53:50 INFO  DMActions:47 - Switched to Frame
+2018-06-12 15:53:52 INFO  DMActions:49 - clicking createButton
+2018-06-12 15:58:38 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 15:58:38 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 15:58:38 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 15:58:40 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 15:58:53 INFO  DMActions:47 - Switched to Frame
+2018-06-12 15:58:55 INFO  DMActions:49 - clicking createButton
+2018-06-12 16:02:51 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 16:02:51 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 16:02:51 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 16:02:53 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 16:03:06 INFO  DMActions:47 - Switched to Frame
+2018-06-12 16:03:08 INFO  DMActions:49 - clicking createButton
+2018-06-12 16:05:56 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 16:05:56 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 16:05:56 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 16:05:58 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 16:06:10 INFO  DMActions:47 - Switched to Frame
+2018-06-12 16:06:12 INFO  DMActions:49 - clicking createButton
+2018-06-12 16:06:19 INFO  TC001_VerifyLoginwithInvalidCredentials:89 - ------------Finished Test-------------
+2018-06-12 16:20:41 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 16:20:42 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 16:20:42 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 16:20:43 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 16:20:56 INFO  DMActions:49 - Switched to Frame
+2018-06-12 16:20:58 INFO  DMActions:55 - clicking createButton
+2018-06-12 16:20:58 INFO  DMActions:58 - Create new Folder clicked
+2018-06-12 16:25:19 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 16:25:19 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 16:25:19 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 16:25:20 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 16:25:32 INFO  DMActions:49 - Switched to Frame
+2018-06-12 16:25:34 INFO  DMActions:55 - clicking createButton
+2018-06-12 16:25:34 INFO  DMActions:58 - Create new Folder clicked
+2018-06-12 16:25:39 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 16:25:41 INFO  TestBase:133 - Browser Closed
+2018-06-12 16:28:35 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 16:28:35 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 16:28:35 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 16:28:37 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 16:28:49 INFO  DMActions:49 - Switched to Frame
+2018-06-12 16:28:51 INFO  DMActions:55 - clicking createButton
+2018-06-12 16:28:51 INFO  DMActions:58 - Create new Folder clicked
+2018-06-12 16:28:56 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 16:28:56 INFO  TestBase:141 - return itr
+2018-06-12 16:28:58 INFO  TestBase:133 - Browser Closed
+2018-06-12 16:31:44 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 16:31:44 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 16:31:44 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 16:31:46 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 16:31:58 INFO  DMActions:49 - Switched to Frame
+2018-06-12 16:32:00 INFO  DMActions:55 - clicking createButton
+2018-06-12 16:32:00 INFO  DMActions:58 - Create new Folder clicked
+2018-06-12 16:32:05 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 16:32:05 INFO  TestBase:141 - return itr
+2018-06-12 16:32:05 INFO  DMActions:65 - backtoSwitchToFolder
+2018-06-12 16:32:06 INFO  TestBase:133 - Browser Closed
+2018-06-12 16:33:54 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 16:33:54 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 16:33:55 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 16:33:56 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 16:34:09 INFO  DMActions:49 - Switched to Frame
+2018-06-12 16:34:11 INFO  DMActions:55 - clicking createButton
+2018-06-12 16:34:11 INFO  DMActions:58 - Create new Folder clicked
+2018-06-12 16:34:16 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 16:34:16 INFO  TestBase:141 - return itr
+2018-06-12 16:34:16 INFO  DMActions:65 - backtoSwitchToFolder
+2018-06-12 16:34:16 INFO  DMActions:71 - Switched to create window
+2018-06-12 16:34:17 INFO  DMActions:90 - Folder created with name Test12_06_2018_04_34_16
+2018-06-12 16:34:17 INFO  DMActions:78 - Switched back to main window
+2018-06-12 16:34:17 INFO  DMActions:49 - Switched to Frame
+2018-06-12 16:34:18 INFO  TC001_VerifyLoginwithInvalidCredentials:97 - ------------Finished Test-------------
+2018-06-12 16:34:21 INFO  TestBase:133 - Browser Closed
+2018-06-12 17:06:28 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 17:06:28 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 17:06:28 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 17:06:29 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 17:06:41 INFO  DMActions:49 - Switched to Frame
+2018-06-12 17:06:43 INFO  DMActions:55 - clicking createButton
+2018-06-12 17:06:43 INFO  DMActions:58 - Create new Folder clicked
+2018-06-12 17:06:48 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 17:06:48 INFO  TestBase:141 - return itr
+2018-06-12 17:06:48 INFO  DMActions:65 - backtoSwitchToFolder
+2018-06-12 17:06:48 INFO  DMActions:71 - Switched to create window
+2018-06-12 17:06:50 INFO  DMActions:90 - Folder created with name Test12_06_2018_05_06_48
+2018-06-12 17:06:50 INFO  DMActions:78 - Switched back to main window
+2018-06-12 17:06:50 INFO  DMActions:49 - Switched to Frame
+2018-06-12 17:06:51 INFO  TC001_VerifyLoginwithInvalidCredentials:90 - Folder created successfully
+2018-06-12 17:06:51 INFO  TC001_VerifyLoginwithInvalidCredentials:97 - ------------Finished Test-------------
+2018-06-12 17:06:54 INFO  TestBase:133 - Browser Closed
+2018-06-12 17:27:27 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 17:27:27 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 17:27:27 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 17:27:29 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 17:27:41 INFO  DMActions:49 - Switched to Frame
+2018-06-12 17:27:43 INFO  DMActions:55 - clicking createButton
+2018-06-12 17:27:43 INFO  DMActions:58 - Create new Folder clicked
+2018-06-12 17:27:48 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 17:27:48 INFO  TestBase:141 - return itr
+2018-06-12 17:27:48 INFO  DMActions:65 - backtoSwitchToFolder
+2018-06-12 17:27:48 INFO  DMActions:71 - Switched to create window
+2018-06-12 17:27:49 INFO  DMActions:90 - Folder created with name Test12_06_2018_05_27_48
+2018-06-12 17:27:49 INFO  DMActions:78 - Switched back to main window
+2018-06-12 17:27:49 INFO  DMActions:49 - Switched to Frame
+2018-06-12 17:27:50 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 17:29:35 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 17:29:36 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 17:29:36 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 17:29:38 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 17:29:52 INFO  DMActions:49 - Switched to Frame
+2018-06-12 17:29:54 INFO  DMActions:55 - clicking createButton
+2018-06-12 17:29:54 INFO  DMActions:58 - Create new Folder clicked
+2018-06-12 17:29:59 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 17:29:59 INFO  TestBase:141 - return itr
+2018-06-12 17:29:59 INFO  DMActions:65 - backtoSwitchToFolder
+2018-06-12 17:29:59 INFO  DMActions:71 - Switched to create window
+2018-06-12 17:30:00 INFO  DMActions:90 - Folder created with name Test12_06_2018_05_29_59
+2018-06-12 17:30:00 INFO  DMActions:78 - Switched back to main window
+2018-06-12 17:30:00 INFO  DMActions:49 - Switched to Frame
+2018-06-12 17:30:02 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 17:30:59 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 17:30:59 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 17:30:59 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 17:31:02 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 17:31:16 INFO  DMActions:49 - Switched to Frame
+2018-06-12 17:31:18 INFO  DMActions:55 - clicking createButton
+2018-06-12 17:31:18 INFO  DMActions:58 - Create new Folder clicked
+2018-06-12 17:31:23 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 17:31:23 INFO  TestBase:141 - return itr
+2018-06-12 17:31:23 INFO  DMActions:65 - backtoSwitchToFolder
+2018-06-12 17:31:23 INFO  DMActions:71 - Switched to create window
+2018-06-12 17:31:25 INFO  DMActions:90 - Folder created with name Test12_06_2018_05_31_23
+2018-06-12 17:31:25 INFO  DMActions:78 - Switched back to main window
+2018-06-12 17:31:25 INFO  DMActions:49 - Switched to Frame
+2018-06-12 17:31:26 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 17:40:09 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 17:40:09 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 17:40:09 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 17:40:11 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 17:40:26 INFO  DMActions:50 - Switched to Frame
+2018-06-12 17:40:28 INFO  DMActions:56 - clicking createButton
+2018-06-12 17:40:28 INFO  DMActions:59 - Create new Folder clicked
+2018-06-12 17:40:33 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 17:40:33 INFO  TestBase:141 - return itr
+2018-06-12 17:40:33 INFO  DMActions:66 - backtoSwitchToFolder
+2018-06-12 17:40:33 INFO  DMActions:72 - Switched to create window
+2018-06-12 17:40:34 INFO  DMActions:91 - Folder created with name Test12_06_2018_05_40_33
+2018-06-12 17:40:34 INFO  DMActions:79 - Switched back to main window
+2018-06-12 17:40:35 INFO  DMActions:50 - Switched to Frame
+2018-06-12 17:40:36 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 17:43:42 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 17:43:43 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 17:43:43 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 17:43:44 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 17:43:56 INFO  DMActions:53 - Switched to Frame
+2018-06-12 17:43:58 INFO  DMActions:59 - clicking createButton
+2018-06-12 17:43:58 INFO  DMActions:62 - Create new Folder clicked
+2018-06-12 17:44:03 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 17:44:03 INFO  TestBase:141 - return itr
+2018-06-12 17:44:03 INFO  DMActions:69 - backtoSwitchToFolder
+2018-06-12 17:44:03 INFO  DMActions:75 - Switched to create window
+2018-06-12 17:44:05 INFO  DMActions:95 - Folder created with name Test12_06_2018_05_44_03
+2018-06-12 17:44:05 INFO  DMActions:82 - Switched back to main window
+2018-06-12 17:44:05 INFO  DMActions:53 - Switched to Frame
+2018-06-12 17:54:43 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 17:54:43 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 17:54:43 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 17:54:44 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 17:54:57 INFO  DMActions:53 - Switched to Frame
+2018-06-12 17:54:59 INFO  DMActions:59 - clicking createButton
+2018-06-12 17:54:59 INFO  DMActions:62 - Create new Folder clicked
+2018-06-12 17:55:04 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 17:55:04 INFO  TestBase:141 - return itr
+2018-06-12 17:55:04 INFO  DMActions:69 - backtoSwitchToFolder
+2018-06-12 17:55:04 INFO  DMActions:75 - Switched to create window
+2018-06-12 17:55:05 INFO  DMActions:95 - Folder created with name Test12_06_2018_05_55_04
+2018-06-12 17:55:05 INFO  DMActions:82 - Switched back to main window
+2018-06-12 17:55:05 INFO  DMActions:53 - Switched to Frame
+2018-06-12 17:55:06 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 17:55:11 INFO  TC001_VerifyLoginwithInvalidCredentials:88 - ------------Finished Test-------------
+2018-06-12 18:08:15 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 18:08:16 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 18:08:16 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 18:08:18 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 18:08:30 INFO  DMActions:59 - Switched to Frame
+2018-06-12 18:08:32 INFO  DMActions:65 - clicking createButton
+2018-06-12 18:08:33 INFO  DMActions:68 - Create new Folder clicked
+2018-06-12 18:08:38 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 18:08:38 INFO  TestBase:141 - return itr
+2018-06-12 18:08:38 INFO  DMActions:75 - backtoSwitchToFolder
+2018-06-12 18:08:38 INFO  DMActions:81 - Switched to create window
+2018-06-12 18:08:39 INFO  DMActions:101 - Folder created with name Test12_06_2018_06_08_38
+2018-06-12 18:08:39 INFO  DMActions:88 - Switched back to main window
+2018-06-12 18:08:39 INFO  DMActions:59 - Switched to Frame
+2018-06-12 18:08:40 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 18:12:28 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 18:12:29 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 18:12:29 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 18:12:30 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 18:12:42 INFO  DMActions:59 - Switched to Frame
+2018-06-12 18:12:44 INFO  DMActions:65 - clicking createButton
+2018-06-12 18:12:44 INFO  DMActions:68 - Create new Folder clicked
+2018-06-12 18:12:49 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 18:12:49 INFO  TestBase:141 - return itr
+2018-06-12 18:12:49 INFO  DMActions:75 - backtoSwitchToFolder
+2018-06-12 18:12:49 INFO  DMActions:81 - Switched to create window
+2018-06-12 18:12:50 INFO  DMActions:101 - Folder created with name Test12_06_2018_06_12_49
+2018-06-12 18:12:50 INFO  DMActions:88 - Switched back to main window
+2018-06-12 18:12:50 INFO  DMActions:59 - Switched to Frame
+2018-06-12 18:12:51 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 18:14:26 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 18:14:26 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 18:14:26 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 18:14:28 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 18:14:40 INFO  DMActions:59 - Switched to Frame
+2018-06-12 18:14:42 INFO  DMActions:65 - clicking createButton
+2018-06-12 18:14:42 INFO  DMActions:68 - Create new Folder clicked
+2018-06-12 18:14:47 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 18:14:47 INFO  TestBase:141 - return itr
+2018-06-12 18:14:47 INFO  DMActions:75 - backtoSwitchToFolder
+2018-06-12 18:14:47 INFO  DMActions:81 - Switched to create window
+2018-06-12 18:14:49 INFO  DMActions:101 - Folder created with name Test12_06_2018_06_14_47
+2018-06-12 18:14:49 INFO  DMActions:88 - Switched back to main window
+2018-06-12 18:14:49 INFO  DMActions:59 - Switched to Frame
+2018-06-12 18:14:50 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 18:17:22 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 18:17:22 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 18:17:22 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 18:17:23 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 18:17:35 INFO  DMActions:59 - Switched to Frame
+2018-06-12 18:17:37 INFO  DMActions:65 - clicking createButton
+2018-06-12 18:17:37 INFO  DMActions:68 - Create new Folder clicked
+2018-06-12 18:17:42 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 18:17:42 INFO  TestBase:141 - return itr
+2018-06-12 18:17:42 INFO  DMActions:75 - backtoSwitchToFolder
+2018-06-12 18:17:42 INFO  DMActions:81 - Switched to create window
+2018-06-12 18:17:44 INFO  DMActions:101 - Folder created with name Test12_06_2018_06_17_42
+2018-06-12 18:17:44 INFO  DMActions:88 - Switched back to main window
+2018-06-12 18:17:44 INFO  DMActions:59 - Switched to Frame
+2018-06-12 18:17:45 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 18:19:59 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 18:20:00 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 18:20:00 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 18:20:01 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 18:20:13 INFO  DMActions:63 - Switched to Frame
+2018-06-12 18:20:15 INFO  DMActions:69 - clicking createButton
+2018-06-12 18:20:15 INFO  DMActions:72 - Create new Folder clicked
+2018-06-12 18:20:20 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 18:20:20 INFO  TestBase:141 - return itr
+2018-06-12 18:20:20 INFO  DMActions:79 - backtoSwitchToFolder
+2018-06-12 18:20:20 INFO  DMActions:85 - Switched to create window
+2018-06-12 18:20:21 INFO  DMActions:105 - Folder created with name Test12_06_2018_06_20_20
+2018-06-12 18:20:21 INFO  DMActions:92 - Switched back to main window
+2018-06-12 18:20:21 INFO  DMActions:63 - Switched to Frame
+2018-06-12 18:20:22 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 18:23:46 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 18:23:46 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 18:23:47 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 18:23:48 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 18:24:00 INFO  DMActions:63 - Switched to Frame
+2018-06-12 18:24:02 INFO  DMActions:69 - clicking createButton
+2018-06-12 18:24:02 INFO  DMActions:72 - Create new Folder clicked
+2018-06-12 18:24:07 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 18:24:07 INFO  TestBase:141 - return itr
+2018-06-12 18:24:07 INFO  DMActions:79 - backtoSwitchToFolder
+2018-06-12 18:24:07 INFO  DMActions:85 - Switched to create window
+2018-06-12 18:24:08 INFO  DMActions:105 - Folder created with name Test12_06_2018_06_24_07
+2018-06-12 18:24:08 INFO  DMActions:92 - Switched back to main window
+2018-06-12 18:24:08 INFO  DMActions:63 - Switched to Frame
+2018-06-12 18:24:09 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 18:27:22 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 18:27:22 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 18:27:22 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 18:27:23 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 18:27:35 INFO  DMActions:63 - Switched to Frame
+2018-06-12 18:27:37 INFO  DMActions:69 - clicking createButton
+2018-06-12 18:27:38 INFO  DMActions:72 - Create new Folder clicked
+2018-06-12 18:27:43 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 18:27:43 INFO  TestBase:141 - return itr
+2018-06-12 18:27:43 INFO  DMActions:79 - backtoSwitchToFolder
+2018-06-12 18:27:43 INFO  DMActions:85 - Switched to create window
+2018-06-12 18:27:44 INFO  DMActions:105 - Folder created with name Test12_06_2018_06_27_43
+2018-06-12 18:27:44 INFO  DMActions:92 - Switched back to main window
+2018-06-12 18:27:44 INFO  DMActions:63 - Switched to Frame
+2018-06-12 18:27:45 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 18:27:53 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 18:27:53 INFO  TestBase:141 - return itr
+2018-06-12 18:29:29 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 18:29:29 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 18:29:30 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 18:29:31 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 18:29:43 INFO  DMActions:63 - Switched to Frame
+2018-06-12 18:29:45 INFO  DMActions:69 - clicking createButton
+2018-06-12 18:29:46 INFO  DMActions:72 - Create new Folder clicked
+2018-06-12 18:29:51 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 18:29:51 INFO  TestBase:141 - return itr
+2018-06-12 18:29:51 INFO  DMActions:79 - backtoSwitchToFolder
+2018-06-12 18:29:51 INFO  DMActions:85 - Switched to create window
+2018-06-12 18:29:52 INFO  DMActions:105 - Folder created with name Test12_06_2018_06_29_51
+2018-06-12 18:29:52 INFO  DMActions:92 - Switched back to main window
+2018-06-12 18:29:52 INFO  DMActions:63 - Switched to Frame
+2018-06-12 18:29:53 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 18:30:02 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 18:30:02 INFO  TestBase:141 - return itr
+2018-06-12 18:31:03 INFO  TC001_VerifyLoginwithInvalidCredentials:91 - ------------Finished Test-------------
+2018-06-12 18:32:00 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-12 18:32:00 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-12 18:32:00 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-12 18:32:01 INFO  LoginPage:39 - Clicked Submit
+2018-06-12 18:32:13 INFO  DMActions:63 - Switched to Frame
+2018-06-12 18:32:15 INFO  DMActions:69 - clicking createButton
+2018-06-12 18:32:16 INFO  DMActions:72 - Create new Folder clicked
+2018-06-12 18:32:21 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 18:32:21 INFO  TestBase:141 - return itr
+2018-06-12 18:32:21 INFO  DMActions:79 - backtoSwitchToFolder
+2018-06-12 18:32:21 INFO  DMActions:85 - Switched to create window
+2018-06-12 18:32:22 INFO  DMActions:105 - Folder created with name Test12_06_2018_06_32_21
+2018-06-12 18:32:22 INFO  DMActions:92 - Switched back to main window
+2018-06-12 18:32:22 INFO  DMActions:63 - Switched to Frame
+2018-06-12 18:32:23 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-12 18:32:31 INFO  TestBase:138 - inside getAllWindow
+2018-06-12 18:32:31 INFO  TestBase:141 - return itr
+2018-06-12 18:33:31 INFO  TC001_VerifyLoginwithInvalidCredentials:91 - ------------Finished Test-------------
+2018-06-13 08:28:22 INFO  TC001_VerifyLoginwithInvalidCredentials:52 - ------------Starting Test-------------
+2018-06-13 08:28:22 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-13 08:28:22 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-13 08:28:26 INFO  LoginPage:39 - Clicked Submit
+2018-06-13 08:28:38 INFO  DMActions:63 - Switched to Frame
+2018-06-13 08:28:40 INFO  DMActions:69 - clicking createButton
+2018-06-13 08:28:41 INFO  DMActions:72 - Create new Folder clicked
+2018-06-13 08:28:46 INFO  TestBase:138 - inside getAllWindow
+2018-06-13 08:28:46 INFO  TestBase:141 - return itr
+2018-06-13 08:28:46 INFO  DMActions:79 - backtoSwitchToFolder
+2018-06-13 08:28:46 INFO  DMActions:85 - Switched to create window
+2018-06-13 08:28:47 INFO  DMActions:105 - Folder created with name Test13_06_2018_08_28_46
+2018-06-13 08:28:47 INFO  DMActions:92 - Switched back to main window
+2018-06-13 08:28:47 INFO  DMActions:63 - Switched to Frame
+2018-06-13 08:28:48 INFO  TC001_VerifyLoginwithInvalidCredentials:79 - Folder created successfully
+2018-06-13 08:28:57 INFO  TestBase:138 - inside getAllWindow
+2018-06-13 08:28:57 INFO  TestBase:141 - return itr
+2018-06-13 08:29:57 INFO  TC001_VerifyLoginwithInvalidCredentials:91 - ------------Finished Test-------------

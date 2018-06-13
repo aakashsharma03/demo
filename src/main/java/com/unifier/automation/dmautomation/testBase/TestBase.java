@@ -1,7 +1,6 @@
 package com.unifier.automation.dmautomation.testBase;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
@@ -133,12 +132,18 @@ public class TestBase {
 		log.info("Browser Closed");
 	}
 	
-	public Iterator<String> getAllWindow()
+	public Iterator<String> getAllWindow(EventFiringWebDriver driver)
 	{
+		log.info("inside getAllWindow");
 		Set<String> windows = driver.getWindowHandles();
 		Iterator<String> itr = windows.iterator();
+		log.info("return itr");
 		return itr;
 	}
 	
+	public void switchToWindow(String win,EventFiringWebDriver driver)
+	{
+		driver.switchTo().window(win);
+	}
 	
 }

@@ -15,6 +15,12 @@ public class UnifierHome {
 	@FindBy(linkText="Sign Out")
 	WebElement signOut;
 	
+	@FindBy(linkText="Document Manager")
+	WebElement DMLink;
+	
+	@FindBy(linkText="Company Documents")
+	WebElement companyDocumentLink;
+	
 	public UnifierHome(WebDriver driver) 
 	{
 		PageFactory.initElements(driver,this);
@@ -36,5 +42,16 @@ public class UnifierHome {
 	public void clickSignOut()
 	{
 		signOut.click();
+	}
+	
+	public void clickDM()
+	{
+		try {
+			DMLink.click();
+			companyDocumentLink.click();
+		} catch (Exception e) {
+			DMLink.click();
+			companyDocumentLink.click();
+		}
 	}
 }

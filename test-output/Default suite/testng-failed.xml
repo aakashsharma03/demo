@@ -7,7 +7,7 @@
         <methods>
           <include name="setUp"/>
           <include name="endTest"/>
-          <include name="VerifyLoginwithInvalidCredentials" invocation-numbers="1 2"/>
+          <include name="VerifyLoginwithInvalidCredentials" invocation-numbers="1 2 3"/>
         </methods>
       </class> <!-- com.unifier.automation.dmautomation.LoginPage.TC001_VerifyLoginwithInvalidCredentials -->
     </classes>
