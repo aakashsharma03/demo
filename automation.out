@@ -870,3 +870,23 @@
 2018-06-13 08:28:57 INFO  TestBase:138 - inside getAllWindow
 2018-06-13 08:28:57 INFO  TestBase:141 - return itr
 2018-06-13 08:29:57 INFO  TC001_VerifyLoginwithInvalidCredentials:91 - ------------Finished Test-------------
+2018-06-13 12:31:51 INFO  TC001_VerifyLoginwithInvalidCredentials:46 - ------------Starting Test-------------
+2018-06-13 12:31:51 INFO  LoginPage:34 - Entered Username coadmin
+2018-06-13 12:31:51 INFO  LoginPage:37 - Entered Password Admin@123
+2018-06-13 12:31:53 INFO  LoginPage:39 - Clicked Submit
+2018-06-13 12:32:05 INFO  DMActions:62 - Switched to Frame
+2018-06-13 12:32:07 INFO  DMActions:68 - clicking createButton
+2018-06-13 12:32:08 INFO  DMActions:71 - Create new Folder clicked
+2018-06-13 12:32:13 INFO  TestBase:137 - inside getAllWindow
+2018-06-13 12:32:13 INFO  TestBase:140 - return itr
+2018-06-13 12:32:13 INFO  DMActions:78 - backtoSwitchToFolder
+2018-06-13 12:32:13 INFO  DMActions:82 - Switched to create window
+2018-06-13 12:32:14 INFO  DMActions:102 - Folder created with name Test13_06_2018_12_32_13
+2018-06-13 12:32:14 INFO  DMActions:89 - Switched back to main window
+2018-06-13 12:32:14 INFO  DMActions:62 - Switched to Frame
+2018-06-13 12:32:16 INFO  TC001_VerifyLoginwithInvalidCredentials:73 - Folder created successfully
+2018-06-13 12:32:24 INFO  TestBase:137 - inside getAllWindow
+2018-06-13 12:32:24 INFO  TestBase:140 - return itr
+2018-06-13 12:32:24 INFO  DMActions:133 - Folder deleted with name Test13_06_2018_12_32_13
+2018-06-13 12:33:24 INFO  TC001_VerifyLoginwithInvalidCredentials:85 - ------------Finished Test-------------
+2018-06-13 12:33:26 INFO  TestBase:132 - Browser Closed
